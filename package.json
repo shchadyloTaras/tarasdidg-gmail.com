@@ -32,7 +32,7 @@
     "import-glob-loader": "^1.1.0",
     "jsxobj": "^1.1.0",
     "mini-css-extract-plugin": "^0.4.5",
-    "node-sass": "^4.10.0",
+    "node-sass": "^7.0.0",
     "optimize-css-assets-webpack-plugin": "^5.0.3",
     "pug": "^2.0.4",
     "pug-html-loader": "^1.1.5",
